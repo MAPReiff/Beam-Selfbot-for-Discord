@@ -5,7 +5,7 @@ After setting up the bot, simply type `beam.live BEAM_NAME` into the discord cha
 
 Setup:
 * [Download Node JS](https://nodejs.org/en/)
-* Download the bot from the releases page
+* Download the bot from the [releases page](https://github.com/MAPReiff/M8-Bot-Mini/releases)
 * Get your discord user token by opening beam in your browser, pressing `CTRL+SHIFT+I`. On the new popup, go to the `Application` tab. Under `Storage`, then `LoaclStorage` you will see a `token` row. Copy that token, you will need it later.
 * In discord, enable developer settings. You can find this in the `Appearance` tab of discord's settings. With this enabled, go to any chat message you sent, right click on your icon, and click `Copy ID`. You will need this later.
 * Unzip the file you downloaded, and place the folder anywhere you want (I recommend your desktop).
