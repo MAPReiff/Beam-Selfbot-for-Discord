@@ -1,4 +1,4 @@
-# Beam Announcement Selfbot
+# M8 Bot Mini
 Here is a very simple and easy to use method to announce your beam stream in any server.
 
 After setting up the bot, simply type `beam.live BEAM_NAME` into the discord chat of your choice, and a fancy message will popup with all your stream details preloaded in the message! If you want automatic announcements, go checkout [M8 Bot](https://github.com/MAPReiff/M8-Bot)!
